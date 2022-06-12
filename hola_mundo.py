@@ -8,4 +8,4 @@
 # del entorno de instalación Python
 
 name = input("Introduce tu nombre: ")
-print(f"Hola, {name} este es tu primer Script!")
+print(f"Hola, {name} este es tu primer script!")
