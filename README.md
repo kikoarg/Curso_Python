@@ -1,6 +1,6 @@
 ![Inove banner](inove.jpg)
 
-# Hola Mundo! 💻
+# Hola Mundo 💻
 Programa creado para ensayar el correcto funcionamiento del entorno de instalación Python
 
 ```
@@ -22,7 +22,7 @@ Version: 1.0
 
 ```
 
-## Tipos de variables!
+## Tipos de variables
 ***
 __Ejemplos que el profesor mostrará en clase__\ => ejemplos_clase.py
 
@@ -35,9 +35,6 @@ __Ejercicios para que el alumno profundice sobre el tema durante la semana__\ =>
 
 
 
-
-
-> Blockquotes are very handy in email to emulate reply text
 
 
 
