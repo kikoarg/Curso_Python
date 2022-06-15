@@ -1,6 +1,6 @@
 ![Inove banner](/inove.jpg)
 
-# Hola Mundo! [Python]
+# Hola Mundo!
 Programa creado para ensayar el correcto funcionamiento del entorno de instalación Python
 ```
 Autor: Inove Coding School
@@ -11,5 +11,6 @@ Version: 1.0
 ```
 asdsdasd
 ```
+> Blockquotes are very handy in email to emulate reply text
 
 Testing link [Aqui](README.md).
