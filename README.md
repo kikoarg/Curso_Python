@@ -22,21 +22,24 @@ Version: 1.0
 
 ```
 
-## Tipos de variables
+## [Tipos de variables](/variables_python)
 ***
-__Ejemplos que el profesor mostrará en clase__\ => ejemplos_clase.py
+./ejemplos_clase => Ejemplos que el profesor mostrará en clase  
 
-__Ejercicios para que el alumno desarrolle lo visto en clase__\ => ejercicios_practica.py
+./ejercicios_practica.py => Ejercicios para que el alumno desarrolle lo visto en clase
 
-__Ejercicios para que el alumno profundice sobre el tema durante la semana__\ => ejercicios_profundizacion.py
-
-
-
-
-
-
-
-
+./ejercicios_profundizacion.py => Ejercicios para que el alumno profundice sobre el tema durante la semana 
+***
 
 ***
+## Condicionales! [Python]
+
+SARAASHAAAAAAAAAAAAAA
+***
+
+
+
+
+
+
 Testing link [Aqui](README.md).
