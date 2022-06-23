@@ -15,6 +15,7 @@
 - PEP8, buenas practicas de programacion
 
 ```
+***
 
 ## [Tipos de variables](/variables_python)
 ***
