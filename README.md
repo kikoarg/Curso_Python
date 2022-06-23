@@ -2,9 +2,9 @@
 
 # Hola Mundo 💻
 
-```
-#### APUNTES 📄
-***
+
+#### - APUNTES 📄
+
 ```
 - Python es un lenguaje Interpretado, no se compila como C
 - Contiene control de flujo
@@ -15,22 +15,21 @@
 - PEP8, buenas practicas de programacion
 
 ```
-***
 
-## [Tipos de variables](/variables_python)
-***
+
+## --- [Tipos de variables](/variables_python)
+```
 ./ejemplos_clase => Ejemplos que el profesor mostrará en clase  
 
 ./ejercicios_practica.py => Ejercicios para que el alumno desarrolle lo visto en clase
 
 ./ejercicios_profundizacion.py => Ejercicios para que el alumno profundice sobre el tema durante la semana 
-***
+```
 
-***
-## Condicionales! [Python]
-
+## --- [Condicionales!](/condicionales_python)
+```
 SARAASHAAAAAAAAAAAAAA
-***
+```
 
 
 
