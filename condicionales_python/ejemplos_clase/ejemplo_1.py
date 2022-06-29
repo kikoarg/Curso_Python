@@ -8,6 +8,9 @@
 x = 5
 y = 2
 
+# printeamos los numeros primero
+print(f'x = {x} // y = {y}')
+
 # Verificar si "x" es par
 if (x % 2) == 0:
     print('x es par')

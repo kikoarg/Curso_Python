@@ -27,8 +27,48 @@ nombre_madre, apellido_madre = nombre_completo_madre.split (' ')
 ```
 
 ## --- [Condicionales!](/condicionales_python)
+| Operador  | Símbolo matemático  | Símbolo Python   |
+|---|---|---|
+| Menor que | < | < |
+| Mayor que | > | > |
+| Menor o igual | ≤ | <=  |
+| Mayor o igual | ≥ | >= |
+| Igual | = | == |
+| Distinto | ≠ | != |
+| Negación | ! | not |
+| “y” | & | and |
+| “ó” | l | or  |
 ```python
-SARAASHAAAAAAAAAAAAAA
+#IF
+if 5 > 2:
+    print('5 es mayor a 2')
+
+#ELSE
+if x > 0:
+    print('x es positivo')
+else:
+    print('x es negativo o 0')
+
+#ELIF
+if x > 0:
+    print('x es positivo')
+elif x < 0:
+    print('x es negativo')
+else:
+    print('x es 0')
+
+#IF ANINADOS
+puntaje = 70
+if puntaje >= 90:
+    print(f'A')
+elif puntaje >= 80:
+    print(f'B')
+elif puntaje >= 70:
+    print(f'C')
+elif puntaje >= 60:
+    print(f'D')
+else:
+    print(f'F')
 ```
 
 
