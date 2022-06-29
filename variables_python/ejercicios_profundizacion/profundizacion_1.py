@@ -39,6 +39,6 @@ print(f'___________________________________')
 # Printeamos todos los resultados
 print(f'La suma entre {numero_1} y {numero_2} =', numero_1 + numero_2)
 print(f'La resta entre {numero_1} y {numero_2} =', numero_1 - numero_2)
-print(f'La multiplicacion entre {numero_1} y {numero_2} =', numero_1 * numero_2)
+print(f'La multiplicacion entre numero_1 y numero_2 =', numero_1 * numero_2)
 print(f'La division entre {numero_1} y {numero_2} =', numero_1 / numero_2)
 print(f'La potencia entre {numero_1} y {numero_2} =', numero_1 ** numero_2)
