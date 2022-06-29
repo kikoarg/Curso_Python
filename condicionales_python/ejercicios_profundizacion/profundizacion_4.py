@@ -33,3 +33,27 @@ contenido.
 
 print('Ejercicios de práctica con cadenas')
 # Empezar aquí la resolución del ejercicio
+texto_1 = str(input('Ingrese palabra #1:'))
+texto_2 = str(input('Ingrese palabra #2:'))
+texto_3 = str(input('Ingrese palabra #3:'))
+
+condicion = int(input('Ingrese el numero (1) para ordenar alfabeticamente // ingrese (2) para ordenar por cantidad de letras: '))
+
+if condicion == 1:
+    if texto_1[0] < texto_2[0] and texto_1[0] < texto_3[0]:
+        if texto_2[0] < texto_3[0]:
+            print(f'{texto_1}, {texto_2}, {texto_3}')
+        else:
+            print(f'{texto_1}, {texto_3}, {texto_2}')
+    elif texto_2[0] < texto_1[0] and texto_2[0] < texto_3[0]:
+        if texto_1[0] < texto_3[0]:
+            print(f'{texto_2}, {texto_1}, {texto_3}')
+        else:
+            print(f'{texto_2}, {texto_3}, {texto_1}')
+    elif texto_3[0] < texto_1[0] and texto_3[0] < texto_2[0]:
+        if texto_1[0] < texto_2[0]:
+            print(f'{texto_3}, {texto_1}, {texto_2}')
+        else:
+            print(f'{texto_3}, {texto_2}, {texto_1}')
+        
+if condicion == 2: # a terminar
