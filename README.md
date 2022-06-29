@@ -71,6 +71,14 @@ else:
     print(f'F')
 ```
 
+## --- [Bucles!](/bucles_python)
+|Sentencia|Símbolo|Python|
+|---|---|---|
+|detener | break | Termina abruptamente el bucle |
+| Continuar | continue | Continuar ejecución desde el comienzo|
+|“sin acción”|pass|No hacer nada|
+
+
 
 
 
