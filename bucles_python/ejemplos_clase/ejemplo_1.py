@@ -14,7 +14,7 @@ while x < 5:
     x +=1   # Incrementar x en 1
 
 print('terminó el bucle while')
-    
+print('--------------')    
 # En este caso realizaremos un bucle mientras
 # x sea menor a 5
 valor_maximo = 5
