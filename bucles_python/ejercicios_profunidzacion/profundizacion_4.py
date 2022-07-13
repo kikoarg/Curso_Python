@@ -12,10 +12,18 @@
 
 temp_dataloger = [12.8, 18.6, 14.5, 20.8, 12.1, 21.2, 13.5, 18.6,
                   14.7, 19.6, 11.2, 18.4]
+                  
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## # NO LLEGO, LO HARE DESPUES :( # ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
 
 # IMPORTANTE: NO borrar los comentarios en VERDE o NARANJA
 
-'''asd
+'''
 Enunciado:
 En este ejercicio se lo provee de una lista de temperaturas,
 esa lista de temperaturas corresponde a los valores de temperaturas
@@ -83,3 +91,4 @@ https://es.weatherspark.com/y/28981/Clima-promedio-en-Buenos-Aires-Argentina-dur
 # ¿En qué época del año nos encontramos?
 # Imprima el resultado en pantalla
 # Debe utilizar temperatura_max y temperatura_min para definirlo
+
