@@ -16,7 +16,7 @@
 - ./ejemplos_clase => Ejemplos que el profesor mostrará en clase  
 - ./ejercicios_practica.py => Ejercicios para que el alumno desarrolle lo visto en clase
 - ./ejercicios_profundizacion.py => Ejercicios para que el alumno profundice sobre el tema durante la semana
-- 
+- El range() no tiene en cuenta el fin, si usas valor 10 contara hasta el 9
 - 
 - 
 - 
@@ -39,7 +39,7 @@ print(f'Hola {nombre_completo} su DNI es {dni} y usted mide {round(altura,2)} cm
 nombre_madre, apellido_madre = nombre_completo_madre.split (' ')
 ```
 
-## --- [Condicionales!](/condicionales_python)
+## --- [Condicionales](/condicionales_python)
 | Operador  | Símbolo matemático  | Símbolo Python   |
 |---|---|---|
 | Menor que | < | < |
@@ -84,16 +84,21 @@ else:
     print(f'F')
 ```
 
-## --- [Bucles!](/bucles_python)
+## --- [Bucles](/bucles_python)
 |Sentencia|Símbolo|Python|
 |---|---|---|
 |detener | break | Termina abruptamente el bucle |
 | Continuar | continue | Continuar ejecución desde el comienzo|
 |“sin acción”|pass|No hacer nada|
 
-
-
-
+## --- [Funciones](/funciones_python)
+- Cuando se definen funciones   : reciben Parametros *(variables que esperan valores)*
+- Cuando se llama a la funcion  : son Argumentos *(valor que ya existe, ya estan definidos)*
+```python
+def print_nombre(nombre, apellido): #Parametros
+    print(f'Nombre completo: {nombre} {apellido}')
+print_nombre('Hola', 'Jorge') # Argumentos
+```
 
 
 
