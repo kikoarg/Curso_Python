@@ -15,7 +15,20 @@
 - PEP8, buenas practicas de programacion
 - ./ejemplos_clase => Ejemplos que el profesor mostrará en clase  
 - ./ejercicios_practica.py => Ejercicios para que el alumno desarrolle lo visto en clase
-- ./ejercicios_profundizacion.py => Ejercicios para que el alumno profundice sobre el tema durante la semana 
+- ./ejercicios_profundizacion.py => Ejercicios para que el alumno profundice sobre el tema durante la semana
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 ```
 
 

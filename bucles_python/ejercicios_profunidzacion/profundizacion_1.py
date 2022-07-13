@@ -29,13 +29,28 @@ print('Comenzamos a ponernos serios!')
 
 # inicio = ....
 # fin = ....
+inicio = int(input('Ingrese el primer numero entero: '))
+fin = int(input('Ingrese el segundo numero entero: '))
 
 # cantidad_numeros ....
 # sumatoria ....
+cantidad_numeros = 0
+sumatoria = 0
 
 # bucle.....
+for i in range(inicio, fin):
+    cantidad_numeros += 1
+    sumatoria += i
+
+sumatoria += fin # corregimos el bucle
+print(f'La cantidad de numeros recorridos: {cantidad_numeros}')
+print(f'la sumatoria de los numeros recorridos es: {sumatoria}')
+
+
+
 
 # Al terminar el bucle calcular el promedio como:
-# promedio = sumatoria / cantidad_numeros
+promedio = sumatoria / cantidad_numeros
 
 # Imprimir resultado en pantalla
+print (f'El promedio: {promedio}')
